@@ -16,5 +16,6 @@ This is most likely a direct result of differences in population. Urban cities h
 
 ![Fig2](https://user-images.githubusercontent.com/85901073/127081123-c8e4d532-2f3c-4f4e-bee6-d3756f330923.png)
 
+From this, it can be seen that when the supply of drivers is high, the number of rides increase and despite having a lower fare average, has a larger total weekly earnings in urban cities. 
 
 ### Summary 
