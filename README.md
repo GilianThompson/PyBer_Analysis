@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ### Overview 
-The purpose of this project was to analyze ride sharing data by city type utilizing the Pandas library and Matplotlib. 
+The purpose of this project was to analyze and create visualizations for ride sharing data by city type utilizing the Pandas library and Matplotlib to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
 
 ### Results 
 From the given data set, the total number of rides, total drivers, total fares, average fare per ride, and average fare per driver were all calculated for the three different city types, rural, suburban, and urban. The results are shown in the dataframe below. Overall, urban cities had more drivers and rides, making the average fare lower than those in rural and suburban areas. 
