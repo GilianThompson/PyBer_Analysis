@@ -18,4 +18,4 @@ This is most likely a direct result of differences in population. Urban cities h
 
 From this, it can be seen that when the supply of drivers is high, the number of rides increase and despite having a lower fare average, has a larger total weekly earnings in urban cities. 
 
-### Summary 
+
